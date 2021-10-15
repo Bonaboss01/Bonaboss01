@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bonaboss01
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently a Student of Data Science and Applied A.I at Solent University, Southompton, UK
-- 💞️ You can reach me on _______
+-
+- 💞️ You can reach me on +234 7034574544
 - 📫 
 
 <!---
