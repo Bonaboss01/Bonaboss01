@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bonaboss01
 - 👀 I’m interested in Data Science and Machine Learning
 -
-- 💞️ You can reach me on +234 7034574544
+- 💞️ You can reach me on +44 7748 206928
 - 📫 
 
 <!---
