@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bonaboss01
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m currently a Data Science Intern and student of Solent University Southampton. I am interested in Data Science and Machine learning
 -
 - 💞️ You can reach me on +44 7748 206928
 - 📫 
