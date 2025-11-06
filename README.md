@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bonaboss01
-- 👀 I’m currently a Data Science Intern and student of Solent University Southampton.
+- 👀 I’m a Senior Statistical Official in the Modelling and Forecasting Division of WAMFORD, DWP.
 -     www.linkedin.com/in/bonaboss01
-- 💞️ You can reach me on +44 7748 206928
+- 💞️ You can reach me on +447785285172
 - 📫 
 
 <!---
