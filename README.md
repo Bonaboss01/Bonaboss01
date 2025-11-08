@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bonaboss01
-- 👀 I’m a Senior Statistical Official in the Modelling and Forecasting Division of WAMFORD, DWP.
+- 👀 I’m a Senior Statistical Officer in the Working Age Modelling and Forecasting Division(WAMFORD), DWP.
 -     www.linkedin.com/in/bonaboss01
-- 💞️ You can reach me on +447785285172
+- 💞️ You can reach me on +44 7785 285 172
 - 📫 
 
 <!---
