@@ -37,7 +37,7 @@ I use **data science, forecasting, and statistical modelling** to support eviden
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bonaboss01)  
-- 📧 Reach me at: *bonaboss01@gmail.com*  
+- 📧 Reach me at: *bonaventureosuide@gmail.com*  
 - 📱 +44 7785 285 172  
 
 ---
