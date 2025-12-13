@@ -1,6 +1,6 @@
 # 👋🏽 Hi, I'm Bonaventure (@Bonaboss01)
 
-I'm a **Senior Data Scientist** in the **Working Age Modelling and Forecasting Division (WAMFORD)** at the **Department for Work and Pensions (DWP)**, UK.  
+I'm a **Senior Staistician(Modelling and Forecasting)** in the **Working Age Modelling and Forecasting Division (WAMFORD)** at the **Department for Work and Pensions (DWP)**, UK.  
 I use **data science, forecasting, and statistical modelling** to support evidence-based policy and operational decision-making.
 
 ---
