@@ -28,15 +28,16 @@ I use **data science, forecasting, and statistical modelling** to support eviden
 **Programming:** Python, R, SQL  
 **Data & Analytics:** Pandas, NumPy, SciPy, Statsmodels, Scikit-learn  
 **Visualisation:** Matplotlib, Seaborn, Plotly  
-**ML / Forecasting:** XGBoost, LightGBM, time-series modelling (ARIMA/Prophet-style workflows)  
-**Deep Learning:** TensorFlow / Keras  
-**GenAI / LLMs:** Prompt engineering, RAG pipelines (indexing + retrieval + grounded responses)  
-**Data Engineering:** ETL pipelines (Pandas/Spark-style workflows), feature engineering, data validation  
-**MLOps / Deployment:** Git, MLflow (experiment tracking), FastAPI, Streamlit, Docker  
+**ML / Forecasting:** XGBoost, LightGBM, time-series modelling (ARIMA / Prophet-style workflows)  
+**Deep Learning:** TensorFlow, Keras  
+**GenAI / LLMs:** Prompt engineering, RAG pipelines  
+**Data Engineering:** ETL pipelines, feature engineering, data validation  
+**MLOps / Deployment:** Git, MLflow, FastAPI, Streamlit, Docker  
 **Cloud:** AWS (S3, EC2, Lambda, SageMaker)  
 **BI Tools:** Power BI, Tableau  
-**Workflow:** Jupyter Notebook, VS Code
-**Engineering Practices:** Unit testing (pytest), modular code structure, reproducible environments (requirements.txt)
+**Workflow:** Jupyter Notebook, VS Code  
+**Engineering Practices:** Unit testing (pytest), modular code structure, reproducible environments
+
  
 ---
 
