@@ -16,7 +16,7 @@ I use **data science, forecasting, and statistical modelling** to support eviden
 
 ## 🧠 Featured Projects
 
-- 🧩 [**AI-Powered Retail Decision Intelligent Platform**](https://github.com/bonaboss01/retails-sales-forecasting-genai) — End-to-end forecasting, pricing optimization, stockout prediction, and GenAI-driven business insights for retail decision-making.
+- 🧩 [**AI-Powered Retail Decision Intelligent Platform**](https://github.com/bonaboss01/retail-sales-forecasting-genai) — End-to-end forecasting, pricing optimization, stockout prediction, and GenAI-driven business insights for retail decision-making.
 - 🪙 [**IPO Listing Gain Predictor**](https://github.com/bonaboss01/IPO_Listing_Gain_Predictor) — Deep learning model predicting IPO listing gains.  
 - 💬 [**Trump–Nigeria Sentiment Analysis**](https://github.com/bonaboss01/trump-nigeria-sentiment-analysis) — NLP pipeline analysing global reactions and public sentiment.  
 - 📈 [**Data Science Challenges**](https://github.com/bonaboss01/Data-Science-Challenges) — Ongoing mini-exercises to strengthen my programming, analytical and ML skills.  
