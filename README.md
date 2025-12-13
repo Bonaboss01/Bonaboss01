@@ -16,21 +16,28 @@ I use **data science, forecasting, and statistical modelling** to support eviden
 
 ## 🧠 Featured Projects
 
+- 🧩 [**AI-Powered Retail Decision Intelligenve Platoform**](https://github.com/bonaboss01/retails-sales-forecasting-genai) — End-to-end forecasting, pricing optimization, stockout prediction, and GenAI-driven business insights for retail decision-making.
 - 🪙 [**IPO Listing Gain Predictor**](https://github.com/bonaboss01/IPO_Listing_Gain_Predictor) — Deep learning model predicting IPO listing gains.  
 - 💬 [**Trump–Nigeria Sentiment Analysis**](https://github.com/bonaboss01/trump-nigeria-sentiment-analysis) — NLP pipeline analysing global reactions and public sentiment.  
 - 📈 [**Data Science Challenges**](https://github.com/bonaboss01/Data-Science-Challenges) — Ongoing mini-exercises to strengthen my programming, analytical and ML skills.  
-- 🧩 [**Early Data Analysis Projects**](https://github.com/bonaboss01/Data-Analysis) — Exploratory data analysis and visualisations on real-world datasets.  
-
-*(Coming soon: my AWS Deployments Portfolio showcasing model hosting and API integration.)*
 
 ---
 
-## ⚙️ Tech Stack
+## 🧰 Tech Stack
 
-**Languages:** Python, R, SQL  
-**Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn  
-**Cloud & Tools:** AWS (S3, EC2, SageMaker, Lambda), Power BI, Tableau, Git, Jupyter Notebook  
-**Areas of Interest:** Data Science, Forecasting, GenAI, MLOps  
+**Programming:** Python, R, SQL  
+**Data & Analytics:** Pandas, NumPy, SciPy, Statsmodels, Scikit-learn  
+**Visualisation:** Matplotlib, Seaborn, Plotly  
+**ML / Forecasting:** XGBoost, LightGBM, time-series modelling (ARIMA/Prophet-style workflows)  
+**Deep Learning:** TensorFlow / Keras  
+**GenAI / LLMs:** Prompt engineering, RAG pipelines (indexing + retrieval + grounded responses)  
+**Data Engineering:** ETL pipelines (Pandas/Spark-style workflows), feature engineering, data validation  
+**MLOps / Deployment:** Git, MLflow (experiment tracking), FastAPI, Streamlit, Docker  
+**Cloud:** AWS (S3, EC2, Lambda, SageMaker)  
+**BI Tools:** Power BI, Tableau  
+**Workflow:** Jupyter Notebook, VS Code
+**Engineering Practices:** Unit testing (pytest), modular code structure, reproducible environments (requirements.txt)
+ 
 
 ---
 
