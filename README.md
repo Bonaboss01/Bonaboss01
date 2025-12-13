@@ -38,7 +38,6 @@ I use **data science, forecasting, and statistical modelling** to support eviden
 **Workflow:** Jupyter Notebook, VS Code
 **Engineering Practices:** Unit testing (pytest), modular code structure, reproducible environments (requirements.txt)
  
-
 ---
 
 ## 📫 Connect With Me
