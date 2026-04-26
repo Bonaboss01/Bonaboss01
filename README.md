@@ -1,6 +1,6 @@
 # 👋🏽 Hi, I'm Bonaventure (@Bonaboss01)
 
-I’m a **Senior Statistician (Modelling & Forecasting)** at the **Department for Work and Pensions (DWP), UK**, currently working within the **Working Age Modelling and Forecasting Division (WAMFORD)**.
+I’m a **Senior Statistician (Modelling & Forecasting)** at the **Department for Work and Pensions (DWP), UK**, currently working within the **Working Age Modelling and Forecasting Division (WAMForD)**.
 
 I specialise in **forecasting, data science, and large-scale analytical systems**, supporting evidence-based policy and operational decision-making.
 
